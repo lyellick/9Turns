@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c076a736-49d3-4956-9d9a-406bb23d5907" alt="9turns logo" width="512" height="auto" />
+  <img src="https://docs.9turns.com/nineturns-banner.png" alt="9turns logo" width="512" height="auto" />
 </p>
 
 
