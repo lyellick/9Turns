@@ -1,4 +1,6 @@
-# 9turns
+<p align="center"><img src="https://docs.9turns.com/nineturns-logo.png" alt="9turns logo" width="120" height="auto" /></p>
+
+# 9Turns
 
 An asynchronous, turn-based 3×3 grid card game inspired by Triple Triad. Backed by a fully API-driven server, players collect, trade, and battle cards, queue matches, and track progress via developer-friendly endpoints.
 
