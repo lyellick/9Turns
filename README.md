@@ -5,7 +5,7 @@
 
 # 9 Turns
 
-An asynchronous, turn-based 3×3 grid card game inspired by Triple Triad. Backed by a fully API-driven server, players collect, trade, and battle cards, queue matches, and track progress via developer-friendly endpoints.
+An asynchronous, turn-based 3×3 grid card game inspired by [Triple Triad](https://finalfantasy.fandom.com/wiki/Triple_Triad) and [spacetraders.io](https://spacetraders.io/). Backed by a fully API-driven server, players collect, trade, and battle cards, queue matches, and track progress via developer-friendly endpoints.
 
 > This is a solo project provided **as-is**. For questions, contact [contact@9turns.com](mailto:contact@9turns.com).
 
